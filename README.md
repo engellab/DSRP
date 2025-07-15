@@ -161,7 +161,14 @@ Parameters
 
 
 ### Example
-This example computes the spiking irregularity of a neuron using the Drift-Diffusion model as the firing rate model and the Gamma distribution as the renewal distribution..
+
+* Synthetic Data Generation:
+We generate synthetic spike data using:
+1-The Drift-Diffusion Model as the firing rate model
+2-The Gamma Distribution as the renewal distribution
+
+*Irregularity Estimation:
+Using neuron_stat (a model-agnostic tool), we estimate the spiking irregularity of the neuron.
 
 ```python
 from dsr_project import DSR, neuron_stat
