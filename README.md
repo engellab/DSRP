@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🧠 Doubly Stochastic Renewal package 
 A Set of Tools for Simulating and Analyzing Spiking Irregularity.
 
