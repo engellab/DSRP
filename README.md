@@ -85,7 +85,7 @@ These functions generate inter-spike intervals (ISIs) for the renewal process.
 
 ##### 1. `Clock_ISI_generator()`
 
-Generates inter-spike intervals (ISIs) using a clock-like mechanism.
+Generates inter-spike intervals (ISIs) using a clock-like mechanism where ISIs are constant.
 
 ##### 2. `Poisson_ISI_generator()`
 
