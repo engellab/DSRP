@@ -98,7 +98,7 @@ Generates inter-spike intervals (ISIs) using a Gamma distribution where phi (flo
 
 ---
 
-### Example 1 : Constant firing rate - Under Poisson
+### Example 1 : Constant firing rate - Sub-Poisson
 
 This example generates 20 trials of spike trains over 2000 ms with a constant firing rate of 10 Hz and a Gamma-distributed ISI (spiking irregularity phi=0.5). The show_spikes method displays a raster plot.
 
@@ -128,7 +128,7 @@ spike_times, spike = neuron.spike_generator(time=2000, num_trials=20)
 neuron.show_spikes()
 ```
 
-### Example 3 : Using the firing rate of preiouse neuron as an input - Poisson
+### Example 3 : Using the firing rate of previous neuron as an input - Poisson
 
 This example uses the firing rate from a previous DSR instance as input for a new simulation.
 
