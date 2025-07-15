@@ -6,7 +6,8 @@ A Set of Tools for Simulating and Analyzing Spiking Irregularity.
 
 If you use this package, please cite:
 
-Aghamohammadi, C., Chandrasekaran, C., & Engel, T. A. (2024). Doubly stochastic renewal processes for modeling neuronal spiking. bioRxiv. [DOI: https://www.biorxiv.org/content/biorxiv/early/2024/02/23/2024.02.21.581457.full.pdf]
+Aghamohammadi, C., Chandrasekaran, C., & Engel, T. A. (2024). A doubly stochastic renewal framework for partitioning
+spiking variability. bioRxiv. [DOI: https://www.biorxiv.org/content/biorxiv/early/2024/02/23/2024.02.21.581457.full.pdf]
 
 
 ## Overview
