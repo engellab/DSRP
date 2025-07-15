@@ -182,6 +182,4 @@ Aghamohammadi, C., Chandrasekaran, C., & Engel, T. A. (2024). Doubly stochastic 
 ##  License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-=======
 
->>>>>>> b17243ec46d7fd775ef4fa1cbaf7c262fc5d699a
