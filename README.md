@@ -4,7 +4,7 @@ A Set of Tools for Simulating and Analyzing Spiking Irregularity.
 
 ## 📘 References
 
-The source code for:
+The source code for the following publication:
 
 Aghamohammadi, C., Chandrasekaran, C., & Engel, T. A. (2024). A doubly stochastic renewal framework for partitioning
 spiking variability. bioRxiv. [DOI: https://www.biorxiv.org/content/biorxiv/early/2024/02/23/2024.02.21.581457.full.pdf]
