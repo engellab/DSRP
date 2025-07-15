@@ -190,6 +190,11 @@ phi_result = neuron_stat.neuron_stats(
                     shift=50
                 )
 ```
+### Examples
+
+More examples can be find in examples folders:
+-Example_spiking_DD_sticky_boundaries.ipynb
+-Example_spiking_constant_FR.ipynb
 
 
 ##  License
