@@ -31,7 +31,7 @@ Or manually place the files in **src** folder into your Python path and import t
 ## 📊 Component 1: DSR – **Spike Train Simulator**
 
 
-**`DSR`  (Doubly Stochastic Renewal Process)**  allows the simulation of spike trains.  The  `DSR`  module contains a suite of methods for generating synthetic spike trains based on a doubly stochastic renewal process. The process is  defined  by a pair  $\{g(\cdot), \bm{\lambda}(t)\}$  via a three-step algorithm for generating spike trains (see reference: Aghamohammadi, C., Chandrasekaran, C., & Engel, T. A.  _bioRxiv_  (2024)). Here,  $\bm{\lambda}(t)$  is a stochastic process governing the instantaneous firing rate, and  $g(\cdot)$ is the renewal distribution.
+**`DSR`  (Doubly Stochastic Renewal Process)**  allows the simulation of spike trains.  The  `DSR`  module contains a suite of methods for generating synthetic spike trains based on a doubly stochastic renewal process. The process is  defined  by a pair  $\{g(\cdot), \lambda(t)\}$  via a three-step algorithm for generating spike trains (see reference: Aghamohammadi, C., Chandrasekaran, C., & Engel, T. A.  _bioRxiv_  (2024)). Here,  $\lambda(t)$  is a stochastic process governing the instantaneous firing rate, and  $g(\cdot)$ is the renewal distribution.
 
 The user can select from  among  many pre-defined firing rate models common in neuroscience  or provide their own user-defined firing rates. The user can also choose from several pre-defined renewal  distributions.
 
