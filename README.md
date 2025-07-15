@@ -81,7 +81,7 @@ Pass-through function to use a user-specified rate array.
 
 #### Pre-defined Renewal distribution
 
-These functions generate inter-spike intervals (ISIs) for the renewal process.
+These functions generate inter-spike intervals (ISIs) in operational time from the pre-defined renewal distributions.
 
 ##### 1. `Clock_ISI_generator()`
 
