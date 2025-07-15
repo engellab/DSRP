@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: dsr_project
+Version: 0.1.0
+Summary: Doubly Stochastic Renewal Process implementation
+Author: Cina Aghamohammadi
+Author-email: caghamohammadi@gmail.com
+License: MIT
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.21
+Requires-Dist: matplotlib>=3.4
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: summary

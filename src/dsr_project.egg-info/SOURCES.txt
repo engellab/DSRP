@@ -1,0 +1,12 @@
+setup.py
+src/dsr_project/DSR.py
+src/dsr_project/ISI_generator.py
+src/dsr_project/__init__.py
+src/dsr_project/firing_rate_models.py
+src/dsr_project/neuron_stat.py
+src/dsr_project/time_rescaling.py
+src/dsr_project.egg-info/PKG-INFO
+src/dsr_project.egg-info/SOURCES.txt
+src/dsr_project.egg-info/dependency_links.txt
+src/dsr_project.egg-info/requires.txt
+src/dsr_project.egg-info/top_level.txt
