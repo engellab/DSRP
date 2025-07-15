@@ -1,6 +1,12 @@
 
-# 🧠 Doubly Stochastic Renewal package 
+# 🧠 Doubly Stochastic Renewal Process 
 A Set of Tools for Simulating and Analyzing Spiking Irregularity.
+
+## 📘 References
+
+If you use this package, please cite:
+
+Aghamohammadi, C., Chandrasekaran, C., & Engel, T. A. (2024). Doubly stochastic renewal processes for modeling neuronal spiking. bioRxiv. [DOI: https://www.biorxiv.org/content/biorxiv/early/2024/02/23/2024.02.21.581457.full.pdf]
 
 
 ## Overview
@@ -174,12 +180,6 @@ phi_result = neuron_stat.neuron_stats(
                 )
 ```
 
-
-## 📘 References
-
-If you use this package, please cite:
-
-Aghamohammadi, C., Chandrasekaran, C., & Engel, T. A. (2024). Doubly stochastic renewal processes for modeling neuronal spiking. bioRxiv. [DOI: https://www.biorxiv.org/content/biorxiv/early/2024/02/23/2024.02.21.581457.full.pdf]
 
 ##  License
 
