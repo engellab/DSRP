@@ -162,14 +162,14 @@ Parameters
 
 ### Example
 
-#####Synthetic Data Generation:
+##### Synthetic Data Generation:
 We generate synthetic spike data using:
 
 1-The Drift-Diffusion Model as the firing rate model
 
 2-The Gamma Distribution as the renewal distribution
 
-#####Irregularity Estimation:
+##### Irregularity Estimation:
 
 Using neuron_stat (a model-agnostic tool), we estimate the spiking irregularity of the neuron.
 
